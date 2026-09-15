@@ -1,6 +1,3 @@
-# Simple Cloud Launch
-
-All you have to do is: Enable Cloud , build a single web page to make it available for publishment , a single html page, not a full app ... Ok?
 
 This project was built with [Lovable](https://lovable.dev).
 
